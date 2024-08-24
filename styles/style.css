@@ -41,8 +41,6 @@ button {
     display: none;
 }
 
-
-
 /* hero section  */
 /* .hero {
     display: flex;
@@ -73,6 +71,7 @@ button {
     background-image: url(../assets/images/Circle\ design.svg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
